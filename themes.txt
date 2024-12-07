@@ -1,0 +1,113 @@
+living room
+kitchen
+bathroom
+study room
+dashboard
+beach
+snow field
+tulip
+sunrise
+dressing table
+peach blossom
+Great Pyramid of Giza
+modern building
+mountain
+salt pan
+forest
+park
+coffee shop
+flowerbeds
+street
+waterfall
+cave
+bohemian
+Taj Mahal
+icy surface
+sandy surface
+flowers
+tree stump
+Red Fabric
+White Fabric
+Cream Fabric
+Pink Fabric
+Orange Fabric
+Lilac Fabric
+Golden Fabric
+Maroon Fabric
+Plum Fabric
+Blue Fabric
+Black Fabric
+Baby Blue Fabric
+Red Water
+White Water
+Green Water
+Pink Water
+Orange Water
+Golden Water
+Maroon Water
+Plum Water
+Blue Water
+Yellow Water
+Black Water
+Baby Blue Water
+Red Surface
+White Surface
+Yellow Surface
+Rose Pink Surface
+Orange Surface
+Light Coral Surface
+Army Green Surface
+Maroon Surface
+Plum Surface
+Blue Surface
+Black Surface
+Baby Blue Surface
+Soil
+Fabric
+Water
+Marble
+Colour Splash
+Supernova
+Grafitti
+Fireworks
+Red backdrop
+White backdrop
+Yellow backdrop
+Rose Pink backdrop
+Orange backdrop
+Maroon backdrop
+Plum backdrop
+Blue backdrop
+Black backdrop
+Baby Blue backdrop
+Green backdrop
+White marble countertop
+Black marble countertop
+Brown marble countertop
+Pink marble countertop
+Green marble countertop
+Light wood countertop
+Dark wood countertop
+Hokusai
+Van Gogh
+Picasso
+Klimt
+Birthday
+Christmas
+New Year
+Ramadan
+Holi
+Navratri
+Eid al-Fitr
+St. Patrick's Day
+Diwali
+Halloween
+Ganesh Chaturthi
+Janmashtami
+Waisak
+Guru Nanak Jayanti
+Indian Independence Day
+Republic Day
+Valentine's day
+United States Independence Day
+Raksha Bandhan
